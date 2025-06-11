@@ -12,7 +12,7 @@ const Projects = () => {
       description: "An AI-powered tool that analyzes resumes to assess skill alignment, job matching, and provides personalized improvement suggestions.",
       image: "./Resumepic.jpeg",
       tags: ["Python", "Docker", "Google Gemini AI", "Pdfplumber"],
-      github: "https://github.com/Prekshaj16/Ai_Resume_Analyzer",
+      github: "https://github.com/Prekshaj16/AI_Prj",
       live: "https://huggingface.co/spaces/PrekshaJ16/AI-Resume-Analyzer",
       icon: Code
     },
