@@ -21,7 +21,7 @@ const Projects = () => {
       description: "A user-friendly Point of Sale system designed for restaurants to manage orders, billing, and inventory efficiently. Supports real-time order tracking.",
       image: "/POS.jpg",
       tags: ["React.js", "Node.js", "MongoDB", "Express"],
-      github: "https://github.com/Prekshaj16/Restaurant_Management_System",
+      github: "https://github.com/Prekshaj16/RMS",
       live: "https://restaurantfrontend-ten.vercel.app/",
       icon: Code
     },
